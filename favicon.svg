@@ -4,13 +4,6 @@
       --bg: #ffffff;
       --bolt: #000000;
     }
-
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --bg: #000000;
-        --bolt: #ffffff;
-      }
-    }
   </style>
 
   <!-- Bakgrund -->
